@@ -1,0 +1,1 @@
+{{ $data->kelembapan_udara }}
